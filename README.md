@@ -1,2 +1,4 @@
 # Tribute-Page-using-html
-A tribute page is a web page based on a person who inspired us in our life. My appreciation for Martin Luther King Jr. is expressed through this tribute page, which I created as my first HTML project.
+
+# Add screenshot
+![Tribute Page using HTML Martin Luther King](https://user-images.githubusercontent.com/123332675/216414964-0fe04cdc-f541-4727-b57b-e73e1f76860e.png)
